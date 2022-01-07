@@ -11,7 +11,7 @@ A: Well,It runs on Windows and Mac, I actually have a Mac,so this code was made 
 
 Q: Will it work with Linux??
 
-A: Im not sure about Linux,I will try it when I have time on a VM
+A: Im not sure about Linux, I will try it when I have time on a VM
 
 
 
@@ -25,7 +25,7 @@ A:You will need a few things which will be listed below as "Install the requirem
 
 Q: Whats software will I need????
 
-A:Python or Visual Studio Code;these are the ones I use,but you may your own prefrances
+A:Python or Visual Studio Code; these are the ones I use, but you may your own prefrances
 
 
 
