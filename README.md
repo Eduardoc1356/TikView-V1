@@ -51,7 +51,7 @@ pip install selenium
 
 pip install pyfiglet==0.7.5
 
-(I think you can past this into terminal)
+(I think you can paste this into terminal)
 
 
 # Note
