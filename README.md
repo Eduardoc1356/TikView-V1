@@ -64,6 +64,17 @@ HOW TO GET CHROMEDRIVER
 
 ![Background (1)](https://user-images.githubusercontent.com/85808670/148602761-2a29c9bc-4cd0-4e31-bb16-8bb9c69ae45e.png)
 
+![Background (5)](https://user-images.githubusercontent.com/85808670/148603273-c0123692-18a3-41ea-9cfe-06fb88dcbb6d.png)
+
+![Background (4)](https://user-images.githubusercontent.com/85808670/148603279-367a4fe3-a7c6-4505-ae62-7a8633c5e212.png)
+
+![I have 96,so i will install this](https://user-images.githubusercontent.com/85808670/148603289-9932d020-fc1a-43b9-9215-31e582450fa5.png)
+
+
+
+
+
+
 # Note
 
 The first recaptcha has to be completed manually.
