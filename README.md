@@ -68,12 +68,6 @@ HOW TO GET CHROMEDRIVER
 
 ![Background (4)](https://user-images.githubusercontent.com/85808670/148603279-367a4fe3-a7c6-4505-ae62-7a8633c5e212.png)
 
-![I have 96,so i will install this](https://user-images.githubusercontent.com/85808670/148603289-9932d020-fc1a-43b9-9215-31e582450fa5.png)
-
-
-
-
-
 
 # Note
 
