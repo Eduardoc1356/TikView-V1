@@ -54,6 +54,16 @@ pip install pyfiglet==0.7.5
 (I think you can paste this into terminal)
 
 
+# More Instructions 
+HOW TO GET CHROMEDRIVER
+![Background](https://user-images.githubusercontent.com/85808670/148602679-27948888-d24f-414a-a7ef-1654cbd9dd01.png)
+
+![Background (3)](https://user-images.githubusercontent.com/85808670/148602716-90a473e0-5048-45cc-b8dc-938b3d6536fb.png)
+
+![Background (2)](https://user-images.githubusercontent.com/85808670/148602740-cedbeafa-c0d6-4acd-ad7b-987e98733f03.png)
+
+![Background (1)](https://user-images.githubusercontent.com/85808670/148602761-2a29c9bc-4cd0-4e31-bb16-8bb9c69ae45e.png)
+
 # Note
 
 The first recaptcha has to be completed manually.
