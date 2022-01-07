@@ -1,5 +1,6 @@
 # TikView-V1
-This is a very powerful tool since it give view for tiktok,which is cool and all
+This is a very powerful tool since it give view for tiktok,
+This give 5k Views in 10 minutes and so on.....
 
 # Q&A
 Q: What devices can I use to run this program???
