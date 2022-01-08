@@ -61,7 +61,7 @@ HOW TO GET CHROMEDRIVER FOR UR VERSION OF CHROME!!
 ![Screen Shot 2022-01-07 at 4 02 14 PM](https://user-images.githubusercontent.com/85808670/148622516-84e3f503-46de-4b98-b075-309dcab236f6.png)
 ![Screen Shot 2022-01-07 at 4 04 46 PM](https://user-images.githubusercontent.com/85808670/148622520-5e4b4f02-931c-44ef-b561-b3fa4c443418.png)
 ![Screen Shot 2022-01-07 at 4 05 04 PM](https://user-images.githubusercontent.com/85808670/148622524-de35a544-37e9-4f0f-830b-6bf3ca7973fb.png)
-![Screen Shot 2022-01-07 at 4 05 04 PM](https://user-images.githubusercontent.com/85808670/148622528-ef003b19-543c-43e8-8b99-a99201c4454e.png)
+
 
 
 # Note
