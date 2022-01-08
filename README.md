@@ -55,18 +55,13 @@ pip install pyfiglet==0.7.5
 
 
 # More Instructions 
-HOW TO GET CHROMEDRIVER
-![Background](https://user-images.githubusercontent.com/85808670/148602679-27948888-d24f-414a-a7ef-1654cbd9dd01.png)
-
-![Background (3)](https://user-images.githubusercontent.com/85808670/148602716-90a473e0-5048-45cc-b8dc-938b3d6536fb.png)
-
-![Background (2)](https://user-images.githubusercontent.com/85808670/148602740-cedbeafa-c0d6-4acd-ad7b-987e98733f03.png)
-
-![Background (1)](https://user-images.githubusercontent.com/85808670/148602761-2a29c9bc-4cd0-4e31-bb16-8bb9c69ae45e.png)
-
-![Background (5)](https://user-images.githubusercontent.com/85808670/148603273-c0123692-18a3-41ea-9cfe-06fb88dcbb6d.png)
-
-![Background (4)](https://user-images.githubusercontent.com/85808670/148603279-367a4fe3-a7c6-4505-ae62-7a8633c5e212.png)
+HOW TO GET CHROMEDRIVER FOR UR VERSION OF CHROME!!
+![Screen Shot 2022-01-07 at 4 01 31 PM](https://user-images.githubusercontent.com/85808670/148622485-5a901ff6-91b7-48ed-9059-25b01d8d20e5.png)
+![Screen Shot 2022-01-07 at 4 01 52 PM](https://user-images.githubusercontent.com/85808670/148622503-4c9228c3-48db-4207-b21f-bfef91aab88a.png)
+![Screen Shot 2022-01-07 at 4 02 14 PM](https://user-images.githubusercontent.com/85808670/148622516-84e3f503-46de-4b98-b075-309dcab236f6.png)
+![Screen Shot 2022-01-07 at 4 04 46 PM](https://user-images.githubusercontent.com/85808670/148622520-5e4b4f02-931c-44ef-b561-b3fa4c443418.png)
+![Screen Shot 2022-01-07 at 4 05 04 PM](https://user-images.githubusercontent.com/85808670/148622524-de35a544-37e9-4f0f-830b-6bf3ca7973fb.png)
+![Screen Shot 2022-01-07 at 4 05 04 PM](https://user-images.githubusercontent.com/85808670/148622528-ef003b19-543c-43e8-8b99-a99201c4454e.png)
 
 
 # Note
