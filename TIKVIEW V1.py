@@ -8,7 +8,7 @@ from selenium.webdriver.common.by import By
 from selenium import webdriver
 
 
-s=Service("/Users/fabo/Desktop/TikView-V1/chromedriver")
+s=Service("GO TO THE INSTRUCTIONS ON THE GITHUB TO KNOW HOW TO DO THIS")
 
 chrome_options = webdriver.ChromeOptions()
 #chrome_options.add_argument("--headless")
@@ -108,8 +108,8 @@ def loop3():
     loop3()
 
 
-vidUrl = "https://www.tiktok.com/@eduardo_cruz95/video/7035648144214117678?is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=7007592005867341318" #Change YOUR_URL to your Tik Tok video URL
-username = "eduardo_cruz95" #Change YOUR_USERNAME to your Tik Tok username
+vidUrl = "(here)" #Change YOUR_URL to your Tik Tok video URL
+username = "(here)" #Change YOUR_USERNAME to your Tik Tok username
 
 system("cls")
 tikview = pyfiglet.figlet_format("TIKVIEW V1", font="slant")
