@@ -1,26 +1,26 @@
 from selenium import webdriver
-from selenium.webdriver.support.ui import Select
+from selenium.webdriver.chrome import options
 import pyfiglet
 from os import system
 import time
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium import webdriver
 
 
-s=Service("GO TO THE INSTRUCTIONS ON THE GITHUB TO KNOW HOW TO DO THIS")
 
 chrome_options = webdriver.ChromeOptions()
 #chrome_options.add_argument("--headless")
 chrome_options.add_argument("--log-level=3")
-driver = webdriver.Chrome(service=s)
+driver = webdriver.Chrome("ENTER THE PATH HERE")
 driver.set_window_size(1024, 650)
-service=s
+ptions=options
 
 
 def loop1():
     time.sleep(70)
     try:
+
+
         driver.find_element(By.XPATH, "/html/body/main/div/div/div[2]/div/div[1]/div[3]/div/div/button").click()
     except:
         print("You didn't solve the captcha yet")
@@ -108,8 +108,8 @@ def loop3():
     loop3()
 
 
-vidUrl = "(here)" #Change YOUR_URL to your Tik Tok video URL
-username = "(here)" #Change YOUR_USERNAME to your Tik Tok username
+vidUrl = "https://www.tiktok.com/@eduardo_cruz95/video/7035648144214117678?is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=7007592005867341318" #Change YOUR_URL to your Tik Tok video URL
+username = "eduardo_cruz95" #Change YOUR_USERNAME to your Tik Tok username
 
 system("cls")
 tikview = pyfiglet.figlet_format("TIKVIEW V1", font="slant")
